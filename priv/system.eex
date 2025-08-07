@@ -1,5 +1,5 @@
 <% system = suite.system %>
-<table style="width: 1%">
+<table>
   <tr>
     <th style="width: 1%; white-space: nowrap">Operating System</th>
     <td><%= Atom.to_string(system.os) %></td>

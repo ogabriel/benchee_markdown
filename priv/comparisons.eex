@@ -17,7 +17,7 @@
   } = reference
 
 %>
-<table style="width: 1%">
+<table>
   <tr>
     <th>Name</th>
     <th style="text-align: right">IPS</th>
